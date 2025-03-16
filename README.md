@@ -4,7 +4,7 @@ A Clojure app implementing the DataRock Tennis programming challenge.
 
 ## Requirements
 
-Java - https://adoptium.net/ - any LTS version (8, 11, 17 and 21)
+Java - https://adoptium.net/temurin/releases/ - any LTS version (8, 11, 17 and 21)
 
 Leiningen - https://leiningen.org/
 
